@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97b34e9e-ff45-4569-8972-5a4f6e739dc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BoomBikes_Linear_Regression_Tejas_Kapasi_ML_C63.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +74,7 @@
       <updated>1718453713873</updated>
       <workItem from="1718453716916" duration="4000" />
       <workItem from="1718454137840" duration="7767000" />
-      <workItem from="1718696458381" duration="27813000" />
+      <workItem from="1718696458381" duration="28064000" />
     </task>
     <servers />
   </component>

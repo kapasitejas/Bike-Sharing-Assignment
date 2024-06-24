@@ -1,4 +1,4 @@
-# Project Name
+# BoomBikes Linear Regression 
 > BoomBikes, a US bike-sharing provider, has faced revenue declines due to the COVID-19 pandemic and 
 > seeks to develop a strategic business plan to boost revenue post-lockdown. 
 > They aim to understand the factors influencing bike demand to better prepare and differentiate
